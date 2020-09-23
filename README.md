@@ -1,4 +1,2 @@
-# KYTransition
-A custom transition using  UIViewControllerTransitioning
+# 小刚你好
 
-![](demo.gif)
